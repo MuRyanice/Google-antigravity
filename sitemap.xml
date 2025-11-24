@@ -36,4 +36,20 @@
         <priority>0.5</priority>
     </url>
     
+    <!-- LLMs Documentation -->
+    <url>
+        <loc>https://antigravityai.online/llms.txt</loc>
+        <lastmod>2025-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- LLMs Full Documentation -->
+    <url>
+        <loc>https://antigravityai.online/llms-full.txt</loc>
+        <lastmod>2025-11-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
 </urlset>
