@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     
     <!-- Main Page with Video -->
     <url>
         <loc>https://antigravityai.online/</loc>
-        <lastmod>2025-11-19</lastmod>
+        <lastmod>2025-11-24</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
         <video:video>
@@ -17,7 +14,7 @@
             <video:description>See Antigravity AI in action: autonomous AI agents that plan, code, test, and deploy. Experience the future of software development powered by Gemini 3 Pro.</video:description>
             <video:content_loc>https://antigravityai.online/videos/antigravity-demo.mp4</video:content_loc>
             <video:duration>120</video:duration>
-            <video:publication_date>2025-11-19T00:00:00+00:00</video:publication_date>
+            <video:publication_date>2025-11-24T00:00:00+00:00</video:publication_date>
             <video:family_friendly>yes</video:family_friendly>
             <video:requires_subscription>no</video:requires_subscription>
         </video:video>
@@ -26,7 +23,7 @@
     <!-- Privacy Policy -->
     <url>
         <loc>https://antigravityai.online/privacy.html</loc>
-        <lastmod>2025-11-19</lastmod>
+        <lastmod>2025-11-24</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
@@ -34,7 +31,7 @@
     <!-- Terms of Service -->
     <url>
         <loc>https://antigravityai.online/terms.html</loc>
-        <lastmod>2025-11-19</lastmod>
+        <lastmod>2025-11-24</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.5</priority>
     </url>
