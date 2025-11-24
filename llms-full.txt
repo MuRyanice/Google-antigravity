@@ -1,0 +1,186 @@
+# Antigravity AI - Full LLMs Usage Documentation
+
+## Introduction
+Antigravity AI (https://antigravityai.online) is an autonomous AI-powered IDE that revolutionizes software development by automating the entire development lifecycle. This comprehensive document provides detailed information about AI models, technologies, services, and integration methods used by Antigravity AI.
+
+## Platform Pages and Documentation
+
+- [Home](https://antigravityai.online): Main platform homepage and product overview
+- [Privacy Policy](https://antigravityai.online/privacy.html): Privacy policy and data handling practices
+- [Terms of Service](https://antigravityai.online/terms.html): Service terms and conditions
+- [LLMs Documentation](https://antigravityai.online/llms.txt): Brief AI usage documentation
+
+## Platform Overview
+Antigravity AI is a complete autonomous development platform that leverages advanced AI technology to:
+- Understand natural language project requirements
+- Generate complete application code automatically
+- Create software architecture and design patterns
+- Write and execute automated tests
+- Deploy applications to production
+- Maintain and optimize code continuously
+
+## AI Models and Services
+
+### Primary AI Model
+**Model:** Google Gemini 3 Pro
+- **Provider:** Google
+- **Purpose:** Autonomous software development, code generation, and project planning
+- **API Integration:** Google Gemini API
+- **Capabilities:**
+  - Understand complex project requirements from natural language
+  - Generate production-ready code across multiple programming languages
+  - Design software architecture and system components
+  - Create comprehensive test suites
+  - Debug and optimize existing code
+  - Generate technical documentation
+- **Usage Patterns:**
+  - User describes project requirements in natural language
+  - AI creates detailed technical specifications and development plans
+  - Autonomous agents generate code, tests, and documentation
+  - Continuous monitoring and optimization of generated applications
+
+### Code Analysis AI
+**Model:** Google Gemini 3 Pro
+- **Provider:** Google
+- **Purpose:** Code review, optimization, and bug detection
+- **Capabilities:**
+  - Analyze code quality and performance
+  - Detect security vulnerabilities and bugs
+  - Suggest optimizations and refactoring
+  - Ensure code follows best practices
+  - Generate code documentation
+
+## Development Process
+
+### Autonomous Development Workflow
+1. **Requirements Analysis:** User provides project description in natural language
+2. **Planning:** AI creates technical specifications and development roadmap
+3. **Architecture Design:** AI designs system architecture and component structure
+4. **Code Generation:** Autonomous agents write production-ready code
+5. **Testing:** AI generates and executes comprehensive test suites
+6. **Deployment:** One-click deployment to production environments
+7. **Monitoring:** Continuous monitoring and optimization
+
+### Technology Stack
+- **Frontend:** HTML5, CSS3, Vanilla JavaScript
+- **AI Engine:** Google Gemini 3 Pro for autonomous development
+- **Code Generation:** Multi-language support (JavaScript, Python, Java, Go, Rust, etc.)
+- **Cloud Infrastructure:** Vercel for hosting and deployment
+- **Version Control:** Git integration for code management
+- **CI/CD:** Automated deployment pipelines
+
+## Supported Programming Languages
+- JavaScript/TypeScript
+- Python
+- Java
+- Go
+- Rust
+- C/C++
+- Ruby
+- PHP
+- Swift
+- Kotlin
+- And more...
+
+## Supported Frameworks
+- React, Vue.js, Angular (Frontend)
+- Next.js, Nuxt.js (Full-stack)
+- Django, Flask, FastAPI (Python)
+- Spring Boot (Java)
+- Express.js (Node.js)
+- And many more...
+
+## Data Handling
+
+### User Data
+- Project requirements and specifications are stored securely
+- Generated code is associated with user accounts
+- User preferences and settings are maintained
+- Version history is tracked and stored
+
+### AI Processing
+- Requirements are processed by AI models in real-time
+- Generated code is validated and tested automatically
+- Processing history is maintained for user reference
+- All data is encrypted and secure
+
+## Privacy and Security
+- All user data is encrypted in transit and at rest
+- AI processing complies with data privacy regulations
+- Generated code is stored securely on our servers
+- Users retain full ownership of their generated code
+- Users can delete their projects and data at any time
+- Code is scanned for security vulnerabilities
+
+## API Integration and Services
+Antigravity AI integrates with multiple services:
+- **Google Gemini API:** For autonomous development and code generation
+- **Git Services:** Integration with GitHub, GitLab, Bitbucket
+- **Cloud Platforms:** Vercel, AWS, Azure, Google Cloud
+- **CI/CD Tools:** GitHub Actions, GitLab CI, Jenkins
+- **Monitoring Services:** Application performance monitoring
+- **Database Services:** PostgreSQL, MongoDB, Redis support
+
+## Supported Features
+- **Natural Language to Code:** Convert project descriptions to working applications
+- **Multi-language Support:** Generate code in 15+ programming languages
+- **Framework Integration:** Work with popular frameworks and libraries
+- **Automated Testing:** Generate and execute comprehensive test suites
+- **Code Optimization:** AI-powered performance optimization
+- **Bug Detection:** Automatic bug detection and fixes
+- **Documentation Generation:** Auto-generate technical documentation
+- **Deployment Automation:** One-click deployment to production
+- **Version Control:** Git integration with commit history
+- **Real-time Collaboration:** Work with AI agents in real-time
+
+## Pricing and Plans
+Antigravity AI offers flexible pricing options:
+- **Free Tier:** Limited projects for evaluation
+- **Professional Plan:** For individual developers
+- **Team Plan:** For development teams
+- **Enterprise Plan:** Custom solutions for large organizations
+- **Pay-as-you-go:** Credit-based pricing model
+
+## Security and Compliance
+Antigravity AI is committed to:
+- **Data Security:** Enterprise-grade encryption
+- **Privacy Protection:** GDPR and data privacy regulation compliance
+- **Code Security:** Automated security scanning
+- **Transparent AI Usage:** Open documentation of AI models
+- **User Rights:** Full control over generated code and data
+- **Ethical AI:** Responsible AI development practices
+
+## Performance Metrics
+- **Code Generation Speed:** Average 2-5 minutes for complete applications
+- **Code Quality:** Production-ready code with best practices
+- **Test Coverage:** Automatic generation of 80%+ test coverage
+- **Deployment Time:** One-click deployment in under 5 minutes
+- **Supported Languages:** 15+ programming languages
+- **Framework Support:** 50+ popular frameworks
+
+## Use Cases
+- **Rapid Prototyping:** Build MVPs in minutes
+- **Full-stack Applications:** Generate complete web applications
+- **API Development:** Create RESTful and GraphQL APIs
+- **Mobile Apps:** Generate mobile application backends
+- **Microservices:** Build microservice architectures
+- **Data Processing:** Create data pipelines and ETL jobs
+
+## Documentation Links
+- **Main Platform:** https://antigravityai.online
+- **Terms of Service:** https://antigravityai.online/terms.html
+- **Privacy Policy:** https://antigravityai.online/privacy.html
+- **LLMs Documentation:** https://antigravityai.online/llms.txt
+
+## Last Updated
+This document is updated regularly to reflect our current AI usage and platform features.
+**Last Updated:** 2025-11-24
+
+## Contact Information
+For questions about AI usage, technical details, or data practices:
+- **Website:** https://antigravityai.online
+- **Email:** support@antigravityai.online
+
+## Attribution and Acknowledgment
+Antigravity AI acknowledges the AI technologies (Google Gemini 3 Pro) that enable our autonomous development platform and is committed to ethical AI usage, transparent documentation, and continuous improvement of our services.
+
