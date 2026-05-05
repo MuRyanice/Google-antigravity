@@ -184,3 +184,6 @@ For questions about AI usage, technical details, or data practices:
 ## Attribution and Acknowledgment
 Antigravity AI acknowledges the AI technologies (Google Gemini 3 Pro) that enable our autonomous development platform and is committed to ethical AI usage, transparent documentation, and continuous improvement of our services.
 
+
+
+
