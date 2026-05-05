@@ -453,6 +453,21 @@ a {
     color: var(--primary-color);
 }
 
+.ad-slot {
+    margin: var(--spacing-2xl) auto 0;
+    max-width: 1000px;
+    display: flex;
+    justify-content: center;
+}
+
+.ad-slot-video {
+    padding: var(--spacing-lg);
+    background: rgba(255, 255, 255, 0.7);
+    border: 1px solid rgba(66, 133, 244, 0.12);
+    border-radius: var(--radius-xl);
+    box-shadow: var(--shadow-sm);
+}
+
 /* Video player controls enhancement */
 .demo-video::-webkit-media-controls-panel {
     background: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.8));
@@ -674,6 +689,19 @@ a {
     margin: 0;
 }
 
+.ad-banner-section {
+    padding: 0 0 var(--spacing-3xl);
+    background: var(--bg-primary);
+}
+
+.ad-banner-shell {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 var(--spacing-lg);
+    display: flex;
+    justify-content: center;
+}
+
 /* ===================================
    CTA Section
    =================================== */
@@ -877,6 +905,10 @@ a {
         width: 100%;
         max-width: 300px;
         justify-content: center;
+    }
+
+    .ad-slot-video {
+        padding: var(--spacing-md);
     }
 }
 
